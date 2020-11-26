@@ -1,1 +1,1 @@
-# Betting-Strat-
+# Betting-Strat
